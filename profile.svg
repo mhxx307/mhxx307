@@ -46,7 +46,7 @@
         .marquee__inner span {
           font-size: 10vw;
           padding: 0 2vw;
-          color: white;
+          color: black;
             mix-blend-mode: difference;
         }
         .marquee .first {
@@ -54,7 +54,7 @@
           animation: marqueeOne 10s linear infinite;
         }
         .marquee .first span {
-          -webkit-text-stroke: 2px white;
+          -webkit-text-stroke: 2px black;
           -webkit-text-fill-color: transparent;
         }
         @media (min-width: 1024px) {
