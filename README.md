@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Quan%233603%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
-  <a href="https://gmail.com target="\_blank">
+  <a href="https://gmail.com" target="\_blank">
     <img src="https://img.shields.io/badge/minhquan.lavo@gmail.com%20-%231DA1F2.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 
