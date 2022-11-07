@@ -61,9 +61,9 @@
 <div align="center">
 <img src="https://media.giphy.com/media/LU3uRsnett7gs/giphy.gif">
 </div>
-    </br>
-  <div align="center">
-    <img src="./profile.svg" width="400" height="400">
+ </br>
+<div align="center">
+   <img src="./profile.svg" width="400" height="400" />
 </div>
 <hr>
 </div>
