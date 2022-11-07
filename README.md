@@ -63,7 +63,7 @@
 </div>
  </br>
 <div align="center">
-   <img src="./profile.svg" width="400" height="400" />
+   <img src="./profile.svg" width="300" height="300" />
 </div>
 <hr>
 </div>
