@@ -19,6 +19,13 @@
 <li>
 <b>Loves:</b> Web/Mobile Development.
 </li>
+ <li>
+  <b>My cv:</b> <a href="https://mhxx307.github.io/cv-lavominhquan">here</a>.
+</li>
+ <li>
+  <b>My blog:</b> <a href="https://minhquan-blogapp.netlify.app/">here</a>.
+</li>
+ 
 <br>
 
 <div>
