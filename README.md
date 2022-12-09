@@ -25,6 +25,9 @@
  <li>
   <b>My blog:</b> <a href="https://minhquan-blogapp.netlify.app/">here</a>.
 </li>
+ <li>
+  <b>My portfolio:</b> <a href="https://minhquan-blogapp.netlify.app/">here</a>.
+</li>
  
 <br>
 
