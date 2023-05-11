@@ -20,13 +20,13 @@
 <b>Loves:</b> Web/Mobile Development.
 </li>
  <li>
-  <b>My cv:</b> <a href="https://mhxx307.github.io/cv-lavominhquan">here</a>.
+  <b>My cv:</b> <a href="">Will update later</a>.
 </li>
  <li>
   <b>My blog:</b> <a href="https://minhquan-blogapp.netlify.app/">here</a>.
 </li>
  <li>
-  <b>My portfolio:</b> <a href="https://mhxx307.github.io/portfolio/">here</a>.
+  <b>My portfolio:</b> <a href="https://www.lavominhquan.com/">lavominhquan.com</a>.
 </li>
  
 <br>
