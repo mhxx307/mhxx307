@@ -23,9 +23,6 @@
   <b>My cv:</b> <a href="">Will update later</a>.
 </li>
  <li>
-  <b>My blog:</b> <a href="https://minhquan-blogapp.netlify.app/">here</a>.
-</li>
- <li>
   <b>My portfolio:</b> <a href="https://www.lavominhquan.com/">lavominhquan.com</a>.
 </li>
  
